@@ -318,7 +318,7 @@
     </comp>
     <comp lib="0" loc="(270,560)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="Rest"/>
+      <a name="label" val="Reset"/>
     </comp>
     <comp lib="0" loc="(270,600)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -410,7 +410,8 @@
       <a name="font" val="SansSerif bold 22"/>
       <a name="text" val="4 Bit Serial Multiplier (Add &amp; Shift Method) "/>
     </comp>
-    <comp lib="8" loc="(601,654)" name="Text">
+    <comp lib="8" loc="(525,645)" name="Text">
+      <a name="color" val="#ff0027"/>
       <a name="text" val="Clock Cycles required are 9. Therefore, 9 is the Compare value"/>
     </comp>
     <comp loc="(1080,350)" name="Control_Unit">
